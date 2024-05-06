@@ -1,0 +1,9 @@
+{
+    "name": "KeltaCoin", 
+    "symbol": "KLT",
+    "uri": "https://raw.githubusercontent.com/Elxas866/KeltaCoin/main/token.json",
+    "sellerFeeBasisPoints": 0,
+    "creators": null,
+    "collection": null,
+    "uses": null
+}
